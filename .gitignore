@@ -1,0 +1,14 @@
+*.pyc
+tmp/
+venv/
+manage.py
+.DS_Store
+node_modules
+.sass-cache
+*.log
+*.yaml
+.env
+env/
+.venv
+.idea
+idea/
